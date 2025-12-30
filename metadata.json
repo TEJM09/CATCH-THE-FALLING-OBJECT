@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VisionGravity Java",
+  "description": "High-performance Java desktop version of the hand-controlled gravity game using JavaFX and OpenCV.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
