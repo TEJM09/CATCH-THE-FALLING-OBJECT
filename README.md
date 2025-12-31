@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+###🎮 Catch the Falling Object – Enhanced Version
 
-# Run and deploy your AI Studio app
+A reflex-based 2D gravity game designed to demonstrate real-time physics simulation, collision detection, and increasing difficulty mechanics. Built for academic evaluation, game logic understanding, and core Java development practice.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1c6nieGZYDxnhLwNM82lARG5UTM4TYTrq
+###🚀 Features Implemented
 
-## Run Locally
+##✅ Core Features
 
-**Prerequisites:**  Node.js
+- Gravity-based falling object mechanics
 
+- Smooth basket movement using keyboard input
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Real-time collision detection system
+
+- Live score calculation and display
+
+- Progressive difficulty increase with speed acceleration
+
+- Game-over condition on missed or harmful object catch
+
+- Continuous game loop for real-time rendering
+
+- Clean and minimal 2D user interface
+
+- Object-oriented design for modular game components
