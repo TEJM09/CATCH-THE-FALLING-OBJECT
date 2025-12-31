@@ -1,12 +1,12 @@
-###🎮 Catch the Falling Object – Enhanced Version
+🎮 Catch the Falling Object – Enhanced Version
 
 A reflex-based 2D gravity game designed to demonstrate real-time physics simulation, collision detection, and increasing difficulty mechanics. Built for academic evaluation, game logic understanding, and core Java development practice.
 
 ---
 
-###🚀 Features Implemented
+🚀 Features Implemented
 
-##✅ Core Features
+✅ Core Features
 
 - Gravity-based falling object mechanics
 
